@@ -6,7 +6,7 @@ public class NF {
 	private String book;
 	private double amount;
 	
-	public NF(String client, String book, double amout) {
+	public NF(String client, String book, double amount) {
 		this.client = client;
 		this.book = book;
 		this.amount = amount;
